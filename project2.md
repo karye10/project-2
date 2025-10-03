@@ -46,6 +46,7 @@ OR
 You should see output like this:
 
 ![mySql-page](./images/mySql-page.PNG)
+
 set a password for the root user, using mysql_native_password as default authentication method. We’re defining this user’s password as PassWord.1.
 
 
